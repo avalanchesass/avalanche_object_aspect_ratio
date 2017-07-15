@@ -1,6 +1,8 @@
 # avalanchesass_object_aspect_ratio
 Maintain aspect ratio.
 
+**ATTENTION:** This package is outdated, you can find the latest release under a new name: https://www.npmjs.com/package/@avalanche/object-aspect-ratio
+
 ## Install
 ```
 npm install avalanchesass_object_aspect_ratio --save
